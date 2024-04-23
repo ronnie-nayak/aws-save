@@ -1,0 +1,12 @@
+{
+  "extends": "@acme/tsconfig/base.json",
+  "compilerOptions": {
+    "tsBuildInfoFile": "node_modules/.cache/tsbuildinfo.json"
+  },
+  "include": [
+    "*.ts",
+    "src",
+    "../../apps/nextjs/src/app/_components/dashboard/graphdatta.tsx"
+  ],
+  "exclude": ["node_modules"]
+}
