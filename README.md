@@ -25,10 +25,6 @@ Save-Up is a money management tracker that allows users to track their expenses 
 
 **Server:** NextJS, TypeScript, tRPC, DrizzleORM
 
-## Visit Deployed Project
-
-**Link:** https://save-up-web.vercel.app/
-
 
 ## Authors
 
