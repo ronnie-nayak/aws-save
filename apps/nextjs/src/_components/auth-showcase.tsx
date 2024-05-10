@@ -8,7 +8,7 @@ export async function AuthShowcase() {
         className="grid h-screen w-screen place-items-center"
         style={{
           background:
-            "url('https://photosbibi.s3.amazonaws.com/preview.png') center no-repeat",
+            "url('https://d3s6tbvrb11hq6.cloudfront.net/preview.png') center no-repeat",
           backgroundSize: "cover",
           filter: "blur(4px)",
         }}
@@ -39,7 +39,7 @@ export async function AuthShowcase() {
                 }}
               >
                 <img
-                  src="https://photosbibi.s3.amazonaws.com/github.svg"
+                  src="https://d3s6tbvrb11hq6.cloudfront.net/github.svg"
                   className="h-16"
                 />
                 <h2>Github</h2>
@@ -56,7 +56,7 @@ export async function AuthShowcase() {
                 }}
               >
                 <img
-                  src="https://photosbibi.s3.amazonaws.com/discord.png"
+                  src="https://d3s6tbvrb11hq6.cloudfront.net/discord.png"
                   className="h-16"
                 />
                 <h2>Discord</h2>
@@ -72,7 +72,7 @@ export async function AuthShowcase() {
                 }}
               >
                 <img
-                  src="https://photosbibi.s3.amazonaws.com/cognito.svg"
+                  src="https://d3s6tbvrb11hq6.cloudfront.net/cognito.svg"
                   className="h-16"
                 />
                 <h2>Cognito</h2>
