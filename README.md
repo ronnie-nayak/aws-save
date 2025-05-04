@@ -65,11 +65,15 @@ Check out the following project report on project features and screenshots of wo
 ## Tech Stack
 
 **Client:** React, TailwindCSS, Framer Motion
+
 **Server:** NextJS, TypeScript, tRPC, DrizzleORM
+
 **AWS Services:** EC2, RDS, S3, SES
 
 ## Members
 
 Abhishek Nayak (E22CSEU1499)
+
 Neha Nayak (E22CSEU1518)
+
 Utkarsh Singh (E22CSEU0540)
