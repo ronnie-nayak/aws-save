@@ -2,7 +2,7 @@
 
 Save-Up is a money management tracker that allows users to track their expenses and savings. It has a dashboard that shows updates, lots of tools for managing transactions, goals, billing reminders, and bank statement upload. It is built using modern web technologies and hosted on AWS cloud. The platform is made so that users can use it easily and connect with cloud services smoothly.
 
-## Report Link
+## Report Link with Screenshots
 
 Check out the following project report on project features and screenshots of working.
 
