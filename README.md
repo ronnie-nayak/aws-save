@@ -20,9 +20,7 @@ Check out the following project report on project features and screenshots of wo
   AWS_REGION=''
   
   # AWS RDS details
-  DATABASE_URL='postgresql://<username>:<password>@<URL>:<port>/<dbName>?sslmode=no-verify'
-  NODE_TLS_REJECT_UNAUTHORIZED=0
-  NODE_EXTRA_CA_CERTS=0
+  DATABASE_URL='postgresql://<username>:<password>@<URL>:<port>/<dbName>'
   
   # Next-Auth details
   AUTH_URL='http://localhost:3000'
