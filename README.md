@@ -6,7 +6,7 @@ Save-Up is a money management tracker that allows users to track their expenses 
 
 Check out the following project report on project features and screenshots of working.
 
-**Link:** https://drive.google.com/file/d/1ZfJPFqq1lEBgtLRSXmqrCIr9fmhRAc5X/view?usp=sharing
+**Link:** https://drive.google.com/file/d/1ixPr-XsOnjzkjMFs7WG0wWhjEnvu5ec7/view?usp=sharing
 
 ## Steps to run code
 ### Prerequisite: 
