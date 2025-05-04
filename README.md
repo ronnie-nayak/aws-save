@@ -9,7 +9,6 @@ Check out the following project report on project features and screenshots of wo
 **Link:** https://drive.google.com/file/d/1ixPr-XsOnjzkjMFs7WG0wWhjEnvu5ec7/view?usp=sharing
 
 ## Steps to run code
-### Prerequisite: 
 - Add .env file with following details
   ```
   PORT='3000'
